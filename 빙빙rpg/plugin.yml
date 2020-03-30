@@ -1,0 +1,15 @@
+name: BingBingJOB
+author: "bingbing"
+version: "1.0.0_BETA"
+api: [1.0.0, 2.0.0, 3.0.0, 3.0.1]
+main: bingbing\bingRPG
+
+commands:
+ 전직:
+  default: true
+ 내정보:
+  default: true
+ 스탯:
+  default: true
+ 퀘스트:
+  default: true
